@@ -49,9 +49,7 @@ function Diet(props) {
                     <div id="meals-panel-id" className="e-panel e-meals-panel">
                         <div className="e-panel-container">
                             <div className="e-panel-header">
-                                <h1 style={{ float: "left", fontSize: "24px", marginBottom: "0px", marginTop: "0px" }}>
-                                    5 Course Meals
-                                </h1>
+                                <div style={{ float: "left" }} >5 Course Meals</div>
                             </div>
                             <div className="e-meals-card-container e-panel-content">
                                 <div className="e-card e-meals-card">
